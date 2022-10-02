@@ -1,0 +1,41 @@
+<div class="post">
+  <div class="post__avatar">
+    <img
+      src="../../assets/profile.jpg"
+      alt=""
+    />
+  </div>
+
+  <div class="post__body">
+    <div class="post__header">
+      <div class="post__headerText">
+        <h3>
+          {{ tweet.firstName }} {{ tweet.lastName }}
+          <span class="post__headerSpecial"
+            ><span class="material-icons post__badge"> verified </span>{{ tweet.userId }}</span
+          >
+          <span style="position: relative; float: right;">{{ tweet.dateAndTimeOfTweet | date :'short' }}</span>
+        </h3>
+        
+      </div>
+      <div class="post__headerDescription">
+        <p>{{ tweet.tweetText }}</p>
+      </div>
+    </div>
+
+    <div class="post__footer">
+      <span class="material-icons footer-icons" [routerLink]="['reply', tweet.id]"> question_answer </span>
+      <div>
+        <span class="material-icons footer-icons" (click)="onLike(tweet.id, tweet.userId)"> favorite_border</span>
+        <span class="tweet-like" *ngIf="tweet.likes>0">{{ tweet.likes }}</span>
+      </div>
+      <div class="dropdown" *ngIf="tweet.userId == userId">
+       <span class="material-icons footer-icons"> expand_more </span>
+        <div class="dropdown-content">
+        <a [routerLink]="['edit', tweet.id]">Edit</a>
+        <a (click)="onDelete(tweet.id)">Delete</a>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>

@@ -1,0 +1,29 @@
+button[disabled]{
+    background-color: #b1dbf5;
+}
+
+button[disabled]:hover{
+    background-color: #b1dbf5;
+}
+
+.tweetBox__tweetButton:hover{
+    background-color: #25a3f1;
+}
+
+.indicator{
+    position: relative;
+}
+.replylength-indicator{
+    font-size: 17px;
+    position: absolute;
+    left: 680px;
+    bottom: 6px;
+}
+
+.invalid-input{
+    color: red;
+}
+
+.valid-input{
+    color: #0b99f1;
+}

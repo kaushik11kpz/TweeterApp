@@ -1,0 +1,19 @@
+<!-- <div class="jumbotron">
+    <h1 class="display-4 alert alert-danger">Invalid Request!</h1>
+    <p class="lead">The Page you requested is not found!</p>
+    <hr class="my-4">
+    <p>Click below to return to the homepage!</p>
+    <p class="lead">
+      <a class="btn btn-primary btn-lg" href="#" role="button">Home</a>
+    </p>
+</div> -->
+
+<div class="container">
+    <div class="alert alert-dark" role="alert">
+        <h4 class="alert-heading alert alert-danger">Invalid Request!</h4>
+        <p>The Page you requested is not found!</p>
+        <hr>
+        <p class="mb-0">Click below to return to the homepage!</p>
+        <a class="btn btn-primary btn-lg" [routerLink]="['../', 'home']">Home</a>
+    </div>
+</div>

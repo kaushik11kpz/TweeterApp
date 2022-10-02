@@ -1,0 +1,10 @@
+.gradient-custom {
+    background: #08bdeb;
+    background: -webkit-linear-gradient(to right bottom, rgb(36, 233, 240), rgb(16, 206, 180));
+    background: linear-gradient(to right bottom, rgb(18, 223, 250), rgb(3, 197, 204))
+  }
+
+  .align-section{
+      position: absolute;    
+      width: 100%;
+  }

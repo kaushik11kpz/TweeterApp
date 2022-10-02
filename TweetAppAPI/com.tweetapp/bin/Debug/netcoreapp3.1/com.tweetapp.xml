@@ -1,0 +1,118 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>com.tweetapp</name>
+    </assembly>
+    <members>
+        <member name="M:com.tweetapp.Controllers.TweetController.GetAllTweets">
+            <summary>
+            Get all tweets
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:com.tweetapp.Controllers.TweetController.GetAllTweetOfUsers(System.String)">
+            <summary>
+            Get all user's tweet
+            </summary>
+            <param name="userName"></param>
+            <returns></returns>
+        </member>
+        <member name="M:com.tweetapp.Controllers.TweetController.PostTweet(System.String,com.tweetapp.Models.Dtos.TweetDto.CreateTweetDto)">
+            <summary>
+            post a new tweet
+            </summary>
+            <param name="userName"></param>
+            <param name="tweet"></param>
+            <returns></returns>
+        </member>
+        <member name="M:com.tweetapp.Controllers.TweetController.DeleteTweet(System.String)">
+            <summary>
+            delete tweet
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:com.tweetapp.Controllers.TweetController.ReplyTweet(System.String,System.String,com.tweetapp.Models.Dtos.TweetDto.CreateTweetDto)">
+            <summary>
+            Reply on a  tweet
+            </summary>
+            <param name="userName"></param>
+            <param name="id"></param>
+            <param name="replyText"></param>
+            <returns></returns>
+        </member>
+        <member name="M:com.tweetapp.Controllers.TweetController.UpdateTweet(System.String,com.tweetapp.Models.Dtos.TweetDto.CreateTweetDto)">
+            <summary>
+            update tweet
+            </summary>
+            <param name="id"></param>
+            <param name="updatedText"></param>
+            <returns></returns>
+        </member>
+        <member name="M:com.tweetapp.Controllers.TweetController.GetTweetByTweetId(System.String)">
+            <summary>
+            Get tweet by tweet id
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:com.tweetapp.Controllers.TweetController.LlikeUnlikeTweet(System.String,System.String)">
+            <summary>
+            Like and Unlike a tweet
+            </summary>
+            <param name="tweetId"></param>
+            <param name="userId"></param>
+            <returns></returns>
+        </member>
+        <member name="M:com.tweetapp.Controllers.UserController.Login(com.tweetapp.Models.UserCredentials)">
+            <summary>
+            Login
+            </summary>
+            <param name="credentials"></param>
+            <returns></returns>
+        </member>
+        <member name="M:com.tweetapp.Controllers.UserController.Register(com.tweetapp.Models.Dtos.UserDto.CreateUserDto)">
+            <summary>
+            Register new user
+            </summary>
+            <param name="userDetail"></param>
+            <returns></returns>
+        </member>
+        <member name="M:com.tweetapp.Controllers.UserController.GetAllUsers">
+            <summary>
+            Get list of all users
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:com.tweetapp.Controllers.UserController.GetUser(System.String)">
+            <summary>
+            Get single user detail
+            </summary>
+            <param name="userName"></param>
+            <returns></returns>
+        </member>
+        <member name="M:com.tweetapp.Controllers.UserController.ResetPassword(System.String,com.tweetapp.Models.Dtos.UserDto.ResetPasswordDto)">
+            <summary>
+            Reset password
+            </summary>
+            <param name="userId"></param>
+            <param name="credentials"></param>
+            <returns></returns>
+        </member>
+        <member name="M:com.tweetapp.Controllers.UserController.ForgotPassword(com.tweetapp.Models.Dtos.UserDto.ForgotPasswordDto)">
+            <summary>
+            Verify Security credentials
+            </summary>
+            <param name="credentials"></param>
+            <returns></returns>
+        </member>
+        <member name="M:com.tweetapp.Controllers.UserController.UpdatePassword(System.String,com.tweetapp.Models.Dtos.UserDto.ResetPasswordDto)">
+            <summary>
+            Reset Forgotted Password
+            </summary>
+            <param name="userId"></param>
+            <param name="newPassword"></param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>

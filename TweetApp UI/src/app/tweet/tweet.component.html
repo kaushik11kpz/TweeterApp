@@ -1,0 +1,8 @@
+<div class="feed">
+  <div class="feed__header">
+    <h2>Home</h2> 
+  </div>
+  <app-post-tweet></app-post-tweet>   
+  <app-tweet-items *ngFor="let tweetEl of tweets" [tweet]="tweetEl"></app-tweet-items>
+</div>
+

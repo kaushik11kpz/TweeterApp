@@ -1,0 +1,91 @@
+<div class="feed">
+    <div class="feed__header">
+      <h2>Tweet</h2> 
+    </div>
+    <div class="post">
+        <div class="post__avatar">
+          <img
+            src="../../assets/profile.jpg"
+            alt=""
+          />
+        </div>
+      
+        <div class="post__body">
+          <div class="post__header">
+            <div class="post__headerText">
+              <h3>
+                {{ tweet?.firstName }} {{ tweet?.lastName }}
+                <span class="post__headerSpecial"
+                  ><span class="material-icons post__badge"> verified </span>{{ tweet?.userId }}</span
+                >
+                <span style="position: relative; float: right;">{{ tweet?.dateAndTimeOfTweet | date :'short' }}</span>
+              </h3>
+              
+            </div>
+            <div class="post__headerDescription">
+              <p>{{ tweet?.tweetText }}</p>
+            </div>
+          </div>
+      </div>
+    </div>
+    <div class="tweetBox">
+        <form (ngSubmit) = "onReply()" #f="ngForm">
+            <div class="tweetbox__input">
+                <img
+                src="../../assets/profile.jpg"
+                alt=""
+                />
+                <textarea 
+                    placeholder="Reply on tweet!"
+                    rows="3" 
+                    name="replyText" 
+                    ngModel
+                    required
+                    maxlength="144"
+                    #replyText="ngModel">
+                </textarea>
+                <!-- <textarea  id="" style="width: 100%; height: 200px; border: none;" placeholder="What's happening?"></textarea> -->
+            </div>
+            <button 
+            class="tweetBox__tweetButton"
+            [disabled]="!f.valid">Reply</button>
+        </form>
+        <div class="indicator">
+            <span class="replylength-indicator valid-input">{{ replyText?.value?.length ? replyText?.value?.length : 0 }}/144</span>
+        </div>
+    </div>
+    <div class="post">
+        <h4>Replies</h4>
+    </div>
+    <div class="post" 
+    *ngFor="let tweetReply of tweet?.replies">
+        <div class="post__avatar">
+          <img
+            src="../../assets/profile.png"
+            alt=""
+          />
+        </div>
+      
+        <div class="post__body">
+          <div class="post__header">
+            <div class="post__headerText">
+              <h3>
+                {{ tweetReply.firstName }} {{ tweetReply.lastName }}
+                <span class="post__headerSpecial"
+                  ><span class="material-icons post__badge"> verified </span>{{ tweetReply.userId }}</span
+                >
+                <span style="position: relative; float: right;">{{ tweetReply.dateAndTimeOfReply | date :'short' }}</span>
+              </h3>
+              
+            </div>
+            <div class="post__headerDescription">
+              <p>{{ tweetReply.replyText }}</p>
+            </div>
+          </div>
+      </div>
+    </div>
+    <div class="post" *ngIf="!reply">
+        <h4 style="padding-left: 250px;">No reply found!</h4>
+    </div>
+</div>
+

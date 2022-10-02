@@ -1,0 +1,84 @@
+
+.register{
+    display: grid;
+    grid-template-columns: 1fr 0fr;
+    height: 100vh;
+}
+.btns{
+    margin: 2% auto 0;
+    /* font-size: 30px; */
+    text-align: center;
+    }
+.headings{
+margin: 2% auto 0;
+/* font-size: 30px; */
+text-align: center;
+font-family: Arial, sans-serif;
+}
+.left{
+    background-color: var(--twitter-color);
+}
+.bg-color{
+    background-color: #56f0f0;
+}
+
+.left-content{
+    margin-top: 150px;
+    padding-left: 300px;
+}
+
+.first-buuton{
+    margin-top: 500px;
+    margin-left: 250px;
+}
+
+.btn-login, .btn-signup{
+    width: 250px;
+    font-weight: 800;
+    font-size: 20px;
+    background-color: white;
+    color:  var(--twitter-color);
+    border: none;
+    border-radius: 10px;
+    box-shadow: 2px 2px 2px 2px rgb(0,0,0,0.5);
+    padding: 5px;
+    text-align: center;
+    padding-top: 5px;
+    padding-bottom: 10px;
+}
+
+.btn-login:hover, .btn-signup:hover{
+    background-color: var(--twitter-color);
+    color: var(--twitter-background);
+    box-shadow: none;
+}
+
+.second-button{
+    margin-top: 20px;
+    margin-left: 250px;
+}
+
+.login-button{
+    margin-top: 10px;
+}
+
+.forgot-password{
+    margin-left: 90px;
+    text-decoration: none;
+    cursor: pointer;
+    background-size: cover;
+    background-position: center;
+}
+
+.forgot-password:hover{
+    font-weight: bold;
+}
+
+.row, .form-group{
+    margin-top: 8px;
+}
+.heading{
+   padding-bottom: 100px;
+   padding-top: 0;
+   margin-top: 0;
+}

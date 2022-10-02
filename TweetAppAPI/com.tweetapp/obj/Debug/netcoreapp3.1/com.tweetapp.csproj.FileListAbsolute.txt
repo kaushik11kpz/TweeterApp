@@ -1,0 +1,167 @@
+C:\Users\User\source\repos\TweetApp\com.tweetapp\com.tweetapp\obj\Debug\netcoreapp3.1\com.tweetapp.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\TweetApp\com.tweetapp\com.tweetapp\obj\Debug\netcoreapp3.1\com.tweetapp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\TweetApp\com.tweetapp\com.tweetapp\obj\Debug\netcoreapp3.1\com.tweetapp.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\TweetApp\com.tweetapp\com.tweetapp\obj\Debug\netcoreapp3.1\com.tweetapp.AssemblyInfo.cs
+C:\Users\User\source\repos\TweetApp\com.tweetapp\com.tweetapp\obj\Debug\netcoreapp3.1\com.tweetapp.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\TweetApp\com.tweetapp\com.tweetapp\obj\Debug\netcoreapp3.1\com.tweetapp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\User\source\repos\TweetApp\com.tweetapp\com.tweetapp\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\User\source\repos\TweetApp\com.tweetapp\com.tweetapp\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\User\source\repos\TweetApp\com.tweetapp\com.tweetapp\bin\Debug\netcoreapp3.1\com.tweetapp.exe
+C:\Users\User\source\repos\TweetApp\com.tweetapp\com.tweetapp\bin\Debug\netcoreapp3.1\com.tweetapp.deps.json
+C:\Users\User\source\repos\TweetApp\com.tweetapp\com.tweetapp\bin\Debug\netcoreapp3.1\com.tweetapp.runtimeconfig.json
+C:\Users\User\source\repos\TweetApp\com.tweetapp\com.tweetapp\bin\Debug\netcoreapp3.1\com.tweetapp.runtimeconfig.dev.json
+C:\Users\User\source\repos\TweetApp\com.tweetapp\com.tweetapp\bin\Debug\netcoreapp3.1\com.tweetapp.dll
+C:\Users\User\source\repos\TweetApp\com.tweetapp\com.tweetapp\bin\Debug\netcoreapp3.1\com.tweetapp.pdb
+C:\Users\User\source\repos\TweetApp\com.tweetapp\com.tweetapp\bin\Debug\netcoreapp3.1\DnsClient.dll
+C:\Users\User\source\repos\TweetApp\com.tweetapp\com.tweetapp\bin\Debug\netcoreapp3.1\Microsoft.Win32.Registry.dll
+C:\Users\User\source\repos\TweetApp\com.tweetapp\com.tweetapp\bin\Debug\netcoreapp3.1\MongoDB.Bson.dll
+C:\Users\User\source\repos\TweetApp\com.tweetapp\com.tweetapp\bin\Debug\netcoreapp3.1\MongoDB.Driver.dll
+C:\Users\User\source\repos\TweetApp\com.tweetapp\com.tweetapp\bin\Debug\netcoreapp3.1\MongoDB.Driver.Core.dll
+C:\Users\User\source\repos\TweetApp\com.tweetapp\com.tweetapp\bin\Debug\netcoreapp3.1\MongoDB.Libmongocrypt.dll
+C:\Users\User\source\repos\TweetApp\com.tweetapp\com.tweetapp\bin\Debug\netcoreapp3.1\SharpCompress.dll
+C:\Users\User\source\repos\TweetApp\com.tweetapp\com.tweetapp\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\User\source\repos\TweetApp\com.tweetapp\com.tweetapp\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+C:\Users\User\source\repos\TweetApp\com.tweetapp\com.tweetapp\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+C:\Users\User\source\repos\TweetApp\com.tweetapp\com.tweetapp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\Microsoft.Win32.Registry.dll
+C:\Users\User\source\repos\TweetApp\com.tweetapp\com.tweetapp\bin\Debug\netcoreapp3.1\runtimes\linux\native\libsnappy64.so
+C:\Users\User\source\repos\TweetApp\com.tweetapp\com.tweetapp\bin\Debug\netcoreapp3.1\runtimes\linux\native\libzstd.so
+C:\Users\User\source\repos\TweetApp\com.tweetapp\com.tweetapp\bin\Debug\netcoreapp3.1\runtimes\osx\native\libsnappy64.dylib
+C:\Users\User\source\repos\TweetApp\com.tweetapp\com.tweetapp\bin\Debug\netcoreapp3.1\runtimes\osx\native\libzstd.dylib
+C:\Users\User\source\repos\TweetApp\com.tweetapp\com.tweetapp\bin\Debug\netcoreapp3.1\runtimes\win\native\libzstd.dll
+C:\Users\User\source\repos\TweetApp\com.tweetapp\com.tweetapp\bin\Debug\netcoreapp3.1\runtimes\win\native\snappy32.dll
+C:\Users\User\source\repos\TweetApp\com.tweetapp\com.tweetapp\bin\Debug\netcoreapp3.1\runtimes\win\native\snappy64.dll
+C:\Users\User\source\repos\TweetApp\com.tweetapp\com.tweetapp\bin\Debug\netcoreapp3.1\runtimes\linux\native\libmongocrypt.so
+C:\Users\User\source\repos\TweetApp\com.tweetapp\com.tweetapp\bin\Debug\netcoreapp3.1\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\User\source\repos\TweetApp\com.tweetapp\com.tweetapp\bin\Debug\netcoreapp3.1\runtimes\win\native\mongocrypt.dll
+C:\Users\User\source\repos\TweetApp\com.tweetapp\com.tweetapp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Security.AccessControl.dll
+C:\Users\User\source\repos\TweetApp\com.tweetapp\com.tweetapp\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\User\source\repos\TweetApp\com.tweetapp\com.tweetapp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\User\source\repos\TweetApp\com.tweetapp\com.tweetapp\obj\Debug\netcoreapp3.1\staticwebassets\com.tweetapp.StaticWebAssets.Manifest.cache
+C:\Users\User\source\repos\TweetApp\com.tweetapp\com.tweetapp\obj\Debug\netcoreapp3.1\staticwebassets\com.tweetapp.StaticWebAssets.xml
+C:\Users\User\source\repos\TweetApp\com.tweetapp\com.tweetapp\obj\Debug\netcoreapp3.1\scopedcss\bundle\com.tweetapp.styles.css
+C:\Users\User\source\repos\TweetApp\com.tweetapp\com.tweetapp\obj\Debug\netcoreapp3.1\com.tweetapp.RazorTargetAssemblyInfo.cache
+C:\Users\User\source\repos\TweetApp\com.tweetapp\com.tweetapp\obj\Debug\netcoreapp3.1\com.tweetapp.dll
+C:\Users\User\source\repos\TweetApp\com.tweetapp\com.tweetapp\obj\Debug\netcoreapp3.1\com.tweetapp.pdb
+C:\Users\User\source\repos\TweetApp\com.tweetapp\com.tweetapp\obj\Debug\netcoreapp3.1\com.tweetapp.genruntimeconfig.cache
+C:\Users\User\source\repos\TweetApp\com.tweetapp\com.tweetapp\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\User\source\repos\TweetApp\com.tweetapp\com.tweetapp\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\User\source\repos\TweetApp\com.tweetapp\com.tweetapp\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\User\source\repos\TweetApp\com.tweetapp\com.tweetapp\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\User\source\repos\TweetApp\com.tweetapp\com.tweetapp\obj\Debug\netcoreapp3.1\com.tweetapp.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\User\source\repos\TweetApp\com.tweetapp\com.tweetapp\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Users\User\source\repos\TweetApp\com.tweetapp\com.tweetapp\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\User\source\repos\TweetApp\com.tweetapp\com.tweetapp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\User\source\repos\TweetApp\com.tweetapp\com.tweetapp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\User\source\repos\TweetApp\com.tweetapp\com.tweetapp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\User\source\repos\TweetApp\com.tweetapp\com.tweetapp\bin\Debug\netcoreapp3.1\com.tweetapp.xml
+C:\Users\2170880\OneDrive - Cognizant\1_Cognizant Works\2_Self Learning Projects\1_Projects\FSE-1 Project\TweetApp\TweetappAPI-master\com.tweetapp\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\2170880\OneDrive - Cognizant\1_Cognizant Works\2_Self Learning Projects\1_Projects\FSE-1 Project\TweetApp\TweetappAPI-master\com.tweetapp\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\2170880\OneDrive - Cognizant\1_Cognizant Works\2_Self Learning Projects\1_Projects\FSE-1 Project\TweetApp\TweetappAPI-master\com.tweetapp\bin\Debug\netcoreapp3.1\com.tweetapp.StaticWebAssets.xml
+C:\Users\2170880\OneDrive - Cognizant\1_Cognizant Works\2_Self Learning Projects\1_Projects\FSE-1 Project\TweetApp\TweetappAPI-master\com.tweetapp\bin\Debug\netcoreapp3.1\com.tweetapp.exe
+C:\Users\2170880\OneDrive - Cognizant\1_Cognizant Works\2_Self Learning Projects\1_Projects\FSE-1 Project\TweetApp\TweetappAPI-master\com.tweetapp\bin\Debug\netcoreapp3.1\com.tweetapp.deps.json
+C:\Users\2170880\OneDrive - Cognizant\1_Cognizant Works\2_Self Learning Projects\1_Projects\FSE-1 Project\TweetApp\TweetappAPI-master\com.tweetapp\bin\Debug\netcoreapp3.1\com.tweetapp.runtimeconfig.json
+C:\Users\2170880\OneDrive - Cognizant\1_Cognizant Works\2_Self Learning Projects\1_Projects\FSE-1 Project\TweetApp\TweetappAPI-master\com.tweetapp\bin\Debug\netcoreapp3.1\com.tweetapp.runtimeconfig.dev.json
+C:\Users\2170880\OneDrive - Cognizant\1_Cognizant Works\2_Self Learning Projects\1_Projects\FSE-1 Project\TweetApp\TweetappAPI-master\com.tweetapp\bin\Debug\netcoreapp3.1\com.tweetapp.dll
+C:\Users\2170880\OneDrive - Cognizant\1_Cognizant Works\2_Self Learning Projects\1_Projects\FSE-1 Project\TweetApp\TweetappAPI-master\com.tweetapp\bin\Debug\netcoreapp3.1\com.tweetapp.pdb
+C:\Users\2170880\OneDrive - Cognizant\1_Cognizant Works\2_Self Learning Projects\1_Projects\FSE-1 Project\TweetApp\TweetappAPI-master\com.tweetapp\bin\Debug\netcoreapp3.1\com.tweetapp.xml
+C:\Users\2170880\OneDrive - Cognizant\1_Cognizant Works\2_Self Learning Projects\1_Projects\FSE-1 Project\TweetApp\TweetappAPI-master\com.tweetapp\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Users\2170880\OneDrive - Cognizant\1_Cognizant Works\2_Self Learning Projects\1_Projects\FSE-1 Project\TweetApp\TweetappAPI-master\com.tweetapp\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\2170880\OneDrive - Cognizant\1_Cognizant Works\2_Self Learning Projects\1_Projects\FSE-1 Project\TweetApp\TweetappAPI-master\com.tweetapp\bin\Debug\netcoreapp3.1\DnsClient.dll
+C:\Users\2170880\OneDrive - Cognizant\1_Cognizant Works\2_Self Learning Projects\1_Projects\FSE-1 Project\TweetApp\TweetappAPI-master\com.tweetapp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\2170880\OneDrive - Cognizant\1_Cognizant Works\2_Self Learning Projects\1_Projects\FSE-1 Project\TweetApp\TweetappAPI-master\com.tweetapp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\2170880\OneDrive - Cognizant\1_Cognizant Works\2_Self Learning Projects\1_Projects\FSE-1 Project\TweetApp\TweetappAPI-master\com.tweetapp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\2170880\OneDrive - Cognizant\1_Cognizant Works\2_Self Learning Projects\1_Projects\FSE-1 Project\TweetApp\TweetappAPI-master\com.tweetapp\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\2170880\OneDrive - Cognizant\1_Cognizant Works\2_Self Learning Projects\1_Projects\FSE-1 Project\TweetApp\TweetappAPI-master\com.tweetapp\bin\Debug\netcoreapp3.1\Microsoft.Win32.Registry.dll
+C:\Users\2170880\OneDrive - Cognizant\1_Cognizant Works\2_Self Learning Projects\1_Projects\FSE-1 Project\TweetApp\TweetappAPI-master\com.tweetapp\bin\Debug\netcoreapp3.1\MongoDB.Bson.dll
+C:\Users\2170880\OneDrive - Cognizant\1_Cognizant Works\2_Self Learning Projects\1_Projects\FSE-1 Project\TweetApp\TweetappAPI-master\com.tweetapp\bin\Debug\netcoreapp3.1\MongoDB.Driver.dll
+C:\Users\2170880\OneDrive - Cognizant\1_Cognizant Works\2_Self Learning Projects\1_Projects\FSE-1 Project\TweetApp\TweetappAPI-master\com.tweetapp\bin\Debug\netcoreapp3.1\MongoDB.Driver.Core.dll
+C:\Users\2170880\OneDrive - Cognizant\1_Cognizant Works\2_Self Learning Projects\1_Projects\FSE-1 Project\TweetApp\TweetappAPI-master\com.tweetapp\bin\Debug\netcoreapp3.1\MongoDB.Libmongocrypt.dll
+C:\Users\2170880\OneDrive - Cognizant\1_Cognizant Works\2_Self Learning Projects\1_Projects\FSE-1 Project\TweetApp\TweetappAPI-master\com.tweetapp\bin\Debug\netcoreapp3.1\SharpCompress.dll
+C:\Users\2170880\OneDrive - Cognizant\1_Cognizant Works\2_Self Learning Projects\1_Projects\FSE-1 Project\TweetApp\TweetappAPI-master\com.tweetapp\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\2170880\OneDrive - Cognizant\1_Cognizant Works\2_Self Learning Projects\1_Projects\FSE-1 Project\TweetApp\TweetappAPI-master\com.tweetapp\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\2170880\OneDrive - Cognizant\1_Cognizant Works\2_Self Learning Projects\1_Projects\FSE-1 Project\TweetApp\TweetappAPI-master\com.tweetapp\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\2170880\OneDrive - Cognizant\1_Cognizant Works\2_Self Learning Projects\1_Projects\FSE-1 Project\TweetApp\TweetappAPI-master\com.tweetapp\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\2170880\OneDrive - Cognizant\1_Cognizant Works\2_Self Learning Projects\1_Projects\FSE-1 Project\TweetApp\TweetappAPI-master\com.tweetapp\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+C:\Users\2170880\OneDrive - Cognizant\1_Cognizant Works\2_Self Learning Projects\1_Projects\FSE-1 Project\TweetApp\TweetappAPI-master\com.tweetapp\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+C:\Users\2170880\OneDrive - Cognizant\1_Cognizant Works\2_Self Learning Projects\1_Projects\FSE-1 Project\TweetApp\TweetappAPI-master\com.tweetapp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\Microsoft.Win32.Registry.dll
+C:\Users\2170880\OneDrive - Cognizant\1_Cognizant Works\2_Self Learning Projects\1_Projects\FSE-1 Project\TweetApp\TweetappAPI-master\com.tweetapp\bin\Debug\netcoreapp3.1\runtimes\linux\native\libsnappy64.so
+C:\Users\2170880\OneDrive - Cognizant\1_Cognizant Works\2_Self Learning Projects\1_Projects\FSE-1 Project\TweetApp\TweetappAPI-master\com.tweetapp\bin\Debug\netcoreapp3.1\runtimes\linux\native\libzstd.so
+C:\Users\2170880\OneDrive - Cognizant\1_Cognizant Works\2_Self Learning Projects\1_Projects\FSE-1 Project\TweetApp\TweetappAPI-master\com.tweetapp\bin\Debug\netcoreapp3.1\runtimes\osx\native\libsnappy64.dylib
+C:\Users\2170880\OneDrive - Cognizant\1_Cognizant Works\2_Self Learning Projects\1_Projects\FSE-1 Project\TweetApp\TweetappAPI-master\com.tweetapp\bin\Debug\netcoreapp3.1\runtimes\osx\native\libzstd.dylib
+C:\Users\2170880\OneDrive - Cognizant\1_Cognizant Works\2_Self Learning Projects\1_Projects\FSE-1 Project\TweetApp\TweetappAPI-master\com.tweetapp\bin\Debug\netcoreapp3.1\runtimes\win\native\libzstd.dll
+C:\Users\2170880\OneDrive - Cognizant\1_Cognizant Works\2_Self Learning Projects\1_Projects\FSE-1 Project\TweetApp\TweetappAPI-master\com.tweetapp\bin\Debug\netcoreapp3.1\runtimes\win\native\snappy32.dll
+C:\Users\2170880\OneDrive - Cognizant\1_Cognizant Works\2_Self Learning Projects\1_Projects\FSE-1 Project\TweetApp\TweetappAPI-master\com.tweetapp\bin\Debug\netcoreapp3.1\runtimes\win\native\snappy64.dll
+C:\Users\2170880\OneDrive - Cognizant\1_Cognizant Works\2_Self Learning Projects\1_Projects\FSE-1 Project\TweetApp\TweetappAPI-master\com.tweetapp\bin\Debug\netcoreapp3.1\runtimes\linux\native\libmongocrypt.so
+C:\Users\2170880\OneDrive - Cognizant\1_Cognizant Works\2_Self Learning Projects\1_Projects\FSE-1 Project\TweetApp\TweetappAPI-master\com.tweetapp\bin\Debug\netcoreapp3.1\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\2170880\OneDrive - Cognizant\1_Cognizant Works\2_Self Learning Projects\1_Projects\FSE-1 Project\TweetApp\TweetappAPI-master\com.tweetapp\bin\Debug\netcoreapp3.1\runtimes\win\native\mongocrypt.dll
+C:\Users\2170880\OneDrive - Cognizant\1_Cognizant Works\2_Self Learning Projects\1_Projects\FSE-1 Project\TweetApp\TweetappAPI-master\com.tweetapp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Security.AccessControl.dll
+C:\Users\2170880\OneDrive - Cognizant\1_Cognizant Works\2_Self Learning Projects\1_Projects\FSE-1 Project\TweetApp\TweetappAPI-master\com.tweetapp\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\2170880\OneDrive - Cognizant\1_Cognizant Works\2_Self Learning Projects\1_Projects\FSE-1 Project\TweetApp\TweetappAPI-master\com.tweetapp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\2170880\OneDrive - Cognizant\1_Cognizant Works\2_Self Learning Projects\1_Projects\FSE-1 Project\TweetApp\TweetappAPI-master\com.tweetapp\obj\Debug\netcoreapp3.1\com.tweetapp.csproj.AssemblyReference.cache
+C:\Users\2170880\OneDrive - Cognizant\1_Cognizant Works\2_Self Learning Projects\1_Projects\FSE-1 Project\TweetApp\TweetappAPI-master\com.tweetapp\obj\Debug\netcoreapp3.1\com.tweetapp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2170880\OneDrive - Cognizant\1_Cognizant Works\2_Self Learning Projects\1_Projects\FSE-1 Project\TweetApp\TweetappAPI-master\com.tweetapp\obj\Debug\netcoreapp3.1\com.tweetapp.AssemblyInfoInputs.cache
+C:\Users\2170880\OneDrive - Cognizant\1_Cognizant Works\2_Self Learning Projects\1_Projects\FSE-1 Project\TweetApp\TweetappAPI-master\com.tweetapp\obj\Debug\netcoreapp3.1\com.tweetapp.AssemblyInfo.cs
+C:\Users\2170880\OneDrive - Cognizant\1_Cognizant Works\2_Self Learning Projects\1_Projects\FSE-1 Project\TweetApp\TweetappAPI-master\com.tweetapp\obj\Debug\netcoreapp3.1\com.tweetapp.csproj.CoreCompileInputs.cache
+C:\Users\2170880\OneDrive - Cognizant\1_Cognizant Works\2_Self Learning Projects\1_Projects\FSE-1 Project\TweetApp\TweetappAPI-master\com.tweetapp\obj\Debug\netcoreapp3.1\com.tweetapp.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\2170880\OneDrive - Cognizant\1_Cognizant Works\2_Self Learning Projects\1_Projects\FSE-1 Project\TweetApp\TweetappAPI-master\com.tweetapp\obj\Debug\netcoreapp3.1\com.tweetapp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\2170880\OneDrive - Cognizant\1_Cognizant Works\2_Self Learning Projects\1_Projects\FSE-1 Project\TweetApp\TweetappAPI-master\com.tweetapp\obj\Debug\netcoreapp3.1\staticwebassets\com.tweetapp.StaticWebAssets.Manifest.cache
+C:\Users\2170880\OneDrive - Cognizant\1_Cognizant Works\2_Self Learning Projects\1_Projects\FSE-1 Project\TweetApp\TweetappAPI-master\com.tweetapp\obj\Debug\netcoreapp3.1\com.tweetapp.RazorTargetAssemblyInfo.cache
+C:\Users\2170880\OneDrive - Cognizant\1_Cognizant Works\2_Self Learning Projects\1_Projects\FSE-1 Project\TweetApp\TweetappAPI-master\com.tweetapp\obj\Debug\netcoreapp3.1\com.tweetapp.csproj.CopyComplete
+C:\Users\2170880\OneDrive - Cognizant\1_Cognizant Works\2_Self Learning Projects\1_Projects\FSE-1 Project\TweetApp\TweetappAPI-master\com.tweetapp\obj\Debug\netcoreapp3.1\com.tweetapp.dll
+C:\Users\2170880\OneDrive - Cognizant\1_Cognizant Works\2_Self Learning Projects\1_Projects\FSE-1 Project\TweetApp\TweetappAPI-master\com.tweetapp\obj\Debug\netcoreapp3.1\com.tweetapp.pdb
+C:\Users\2170880\OneDrive - Cognizant\1_Cognizant Works\2_Self Learning Projects\1_Projects\FSE-1 Project\TweetApp\TweetappAPI-master\com.tweetapp\obj\Debug\netcoreapp3.1\com.tweetapp.genruntimeconfig.cache
+E:\DotNet\Techademy\Deployed TweetApp\TweetApp-master\TweetAppAPI\com.tweetapp\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\DotNet\Techademy\Deployed TweetApp\TweetApp-master\TweetAppAPI\com.tweetapp\bin\Debug\netcoreapp3.1\appsettings.json
+E:\DotNet\Techademy\Deployed TweetApp\TweetApp-master\TweetAppAPI\com.tweetapp\bin\Debug\netcoreapp3.1\com.tweetapp.exe
+E:\DotNet\Techademy\Deployed TweetApp\TweetApp-master\TweetAppAPI\com.tweetapp\bin\Debug\netcoreapp3.1\com.tweetapp.deps.json
+E:\DotNet\Techademy\Deployed TweetApp\TweetApp-master\TweetAppAPI\com.tweetapp\bin\Debug\netcoreapp3.1\com.tweetapp.runtimeconfig.json
+E:\DotNet\Techademy\Deployed TweetApp\TweetApp-master\TweetAppAPI\com.tweetapp\bin\Debug\netcoreapp3.1\com.tweetapp.runtimeconfig.dev.json
+E:\DotNet\Techademy\Deployed TweetApp\TweetApp-master\TweetAppAPI\com.tweetapp\bin\Debug\netcoreapp3.1\com.tweetapp.dll
+E:\DotNet\Techademy\Deployed TweetApp\TweetApp-master\TweetAppAPI\com.tweetapp\bin\Debug\netcoreapp3.1\com.tweetapp.pdb
+E:\DotNet\Techademy\Deployed TweetApp\TweetApp-master\TweetAppAPI\com.tweetapp\bin\Debug\netcoreapp3.1\AutoMapper.dll
+E:\DotNet\Techademy\Deployed TweetApp\TweetApp-master\TweetAppAPI\com.tweetapp\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+E:\DotNet\Techademy\Deployed TweetApp\TweetApp-master\TweetAppAPI\com.tweetapp\bin\Debug\netcoreapp3.1\DnsClient.dll
+E:\DotNet\Techademy\Deployed TweetApp\TweetApp-master\TweetAppAPI\com.tweetapp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\DotNet\Techademy\Deployed TweetApp\TweetApp-master\TweetAppAPI\com.tweetapp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+E:\DotNet\Techademy\Deployed TweetApp\TweetApp-master\TweetAppAPI\com.tweetapp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+E:\DotNet\Techademy\Deployed TweetApp\TweetApp-master\TweetAppAPI\com.tweetapp\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+E:\DotNet\Techademy\Deployed TweetApp\TweetApp-master\TweetAppAPI\com.tweetapp\bin\Debug\netcoreapp3.1\Microsoft.Win32.Registry.dll
+E:\DotNet\Techademy\Deployed TweetApp\TweetApp-master\TweetAppAPI\com.tweetapp\bin\Debug\netcoreapp3.1\MongoDB.Bson.dll
+E:\DotNet\Techademy\Deployed TweetApp\TweetApp-master\TweetAppAPI\com.tweetapp\bin\Debug\netcoreapp3.1\MongoDB.Driver.dll
+E:\DotNet\Techademy\Deployed TweetApp\TweetApp-master\TweetAppAPI\com.tweetapp\bin\Debug\netcoreapp3.1\MongoDB.Driver.Core.dll
+E:\DotNet\Techademy\Deployed TweetApp\TweetApp-master\TweetAppAPI\com.tweetapp\bin\Debug\netcoreapp3.1\MongoDB.Libmongocrypt.dll
+E:\DotNet\Techademy\Deployed TweetApp\TweetApp-master\TweetAppAPI\com.tweetapp\bin\Debug\netcoreapp3.1\SharpCompress.dll
+E:\DotNet\Techademy\Deployed TweetApp\TweetApp-master\TweetAppAPI\com.tweetapp\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+E:\DotNet\Techademy\Deployed TweetApp\TweetApp-master\TweetAppAPI\com.tweetapp\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\DotNet\Techademy\Deployed TweetApp\TweetApp-master\TweetAppAPI\com.tweetapp\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\DotNet\Techademy\Deployed TweetApp\TweetApp-master\TweetAppAPI\com.tweetapp\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+E:\DotNet\Techademy\Deployed TweetApp\TweetApp-master\TweetAppAPI\com.tweetapp\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+E:\DotNet\Techademy\Deployed TweetApp\TweetApp-master\TweetAppAPI\com.tweetapp\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+E:\DotNet\Techademy\Deployed TweetApp\TweetApp-master\TweetAppAPI\com.tweetapp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\Microsoft.Win32.Registry.dll
+E:\DotNet\Techademy\Deployed TweetApp\TweetApp-master\TweetAppAPI\com.tweetapp\bin\Debug\netcoreapp3.1\runtimes\linux\native\libsnappy64.so
+E:\DotNet\Techademy\Deployed TweetApp\TweetApp-master\TweetAppAPI\com.tweetapp\bin\Debug\netcoreapp3.1\runtimes\linux\native\libzstd.so
+E:\DotNet\Techademy\Deployed TweetApp\TweetApp-master\TweetAppAPI\com.tweetapp\bin\Debug\netcoreapp3.1\runtimes\osx\native\libsnappy64.dylib
+E:\DotNet\Techademy\Deployed TweetApp\TweetApp-master\TweetAppAPI\com.tweetapp\bin\Debug\netcoreapp3.1\runtimes\osx\native\libzstd.dylib
+E:\DotNet\Techademy\Deployed TweetApp\TweetApp-master\TweetAppAPI\com.tweetapp\bin\Debug\netcoreapp3.1\runtimes\win\native\libzstd.dll
+E:\DotNet\Techademy\Deployed TweetApp\TweetApp-master\TweetAppAPI\com.tweetapp\bin\Debug\netcoreapp3.1\runtimes\win\native\snappy32.dll
+E:\DotNet\Techademy\Deployed TweetApp\TweetApp-master\TweetAppAPI\com.tweetapp\bin\Debug\netcoreapp3.1\runtimes\win\native\snappy64.dll
+E:\DotNet\Techademy\Deployed TweetApp\TweetApp-master\TweetAppAPI\com.tweetapp\bin\Debug\netcoreapp3.1\runtimes\linux\native\libmongocrypt.so
+E:\DotNet\Techademy\Deployed TweetApp\TweetApp-master\TweetAppAPI\com.tweetapp\bin\Debug\netcoreapp3.1\runtimes\osx\native\libmongocrypt.dylib
+E:\DotNet\Techademy\Deployed TweetApp\TweetApp-master\TweetAppAPI\com.tweetapp\bin\Debug\netcoreapp3.1\runtimes\win\native\mongocrypt.dll
+E:\DotNet\Techademy\Deployed TweetApp\TweetApp-master\TweetAppAPI\com.tweetapp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Security.AccessControl.dll
+E:\DotNet\Techademy\Deployed TweetApp\TweetApp-master\TweetAppAPI\com.tweetapp\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+E:\DotNet\Techademy\Deployed TweetApp\TweetApp-master\TweetAppAPI\com.tweetapp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+E:\DotNet\Techademy\Deployed TweetApp\TweetApp-master\TweetAppAPI\com.tweetapp\obj\Debug\netcoreapp3.1\com.tweetapp.csproj.AssemblyReference.cache
+E:\DotNet\Techademy\Deployed TweetApp\TweetApp-master\TweetAppAPI\com.tweetapp\obj\Debug\netcoreapp3.1\com.tweetapp.AssemblyInfoInputs.cache
+E:\DotNet\Techademy\Deployed TweetApp\TweetApp-master\TweetAppAPI\com.tweetapp\obj\Debug\netcoreapp3.1\com.tweetapp.AssemblyInfo.cs
+E:\DotNet\Techademy\Deployed TweetApp\TweetApp-master\TweetAppAPI\com.tweetapp\obj\Debug\netcoreapp3.1\com.tweetapp.csproj.CoreCompileInputs.cache
+E:\DotNet\Techademy\Deployed TweetApp\TweetApp-master\TweetAppAPI\com.tweetapp\obj\Debug\netcoreapp3.1\com.tweetapp.MvcApplicationPartsAssemblyInfo.cs
+E:\DotNet\Techademy\Deployed TweetApp\TweetApp-master\TweetAppAPI\com.tweetapp\obj\Debug\netcoreapp3.1\com.tweetapp.MvcApplicationPartsAssemblyInfo.cache
+E:\DotNet\Techademy\Deployed TweetApp\TweetApp-master\TweetAppAPI\com.tweetapp\obj\Debug\netcoreapp3.1\staticwebassets\com.tweetapp.StaticWebAssets.Manifest.cache
+E:\DotNet\Techademy\Deployed TweetApp\TweetApp-master\TweetAppAPI\com.tweetapp\obj\Debug\netcoreapp3.1\staticwebassets\com.tweetapp.StaticWebAssets.xml
+E:\DotNet\Techademy\Deployed TweetApp\TweetApp-master\TweetAppAPI\com.tweetapp\obj\Debug\netcoreapp3.1\scopedcss\bundle\com.tweetapp.styles.css
+E:\DotNet\Techademy\Deployed TweetApp\TweetApp-master\TweetAppAPI\com.tweetapp\obj\Debug\netcoreapp3.1\com.tweetapp.RazorTargetAssemblyInfo.cache
+E:\DotNet\Techademy\Deployed TweetApp\TweetApp-master\TweetAppAPI\com.tweetapp\obj\Debug\netcoreapp3.1\com.tweetapp.csproj.CopyComplete
+E:\DotNet\Techademy\Deployed TweetApp\TweetApp-master\TweetAppAPI\com.tweetapp\obj\Debug\netcoreapp3.1\com.tweetapp.dll
+E:\DotNet\Techademy\Deployed TweetApp\TweetApp-master\TweetAppAPI\com.tweetapp\obj\Debug\netcoreapp3.1\com.tweetapp.pdb
+E:\DotNet\Techademy\Deployed TweetApp\TweetApp-master\TweetAppAPI\com.tweetapp\obj\Debug\netcoreapp3.1\com.tweetapp.genruntimeconfig.cache

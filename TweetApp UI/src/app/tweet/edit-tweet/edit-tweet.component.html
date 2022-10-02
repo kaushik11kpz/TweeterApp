@@ -1,0 +1,31 @@
+<div class="feed">
+    <div class="feed__header">
+      <h2>Edit Tweet</h2> 
+    </div>
+    <div class="tweetBox">
+        <form (ngSubmit) = "onUpdate(f)" #f="ngForm">
+            <div class="tweetbox__input">
+                <img
+                src="../../assets/profile.jpg"
+                alt=""
+                />
+                <textarea
+                placeholder="Edit Tweet!"
+                id="tweetText"
+                required
+                maxlength="144"
+                rows="3"
+                [(ngModel)]="editedText"
+                name="tweetText"
+                #tweetText>
+                </textarea>
+                
+                <!-- <textarea  id="" style="width: 100%; height: 200px; border: none;" placeholder="What's happening?"></textarea> -->
+            </div>
+            <button class="tweetBox__tweetButton" [disabled]="!f.valid">Update</button>
+            <div class="indicator">
+                <span class="replylength-indicator valid-input">{{ editedText.length }}/144</span>
+            </div>
+        </form>
+    </div>
+</div>

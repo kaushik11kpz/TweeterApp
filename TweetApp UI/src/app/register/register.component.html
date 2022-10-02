@@ -1,0 +1,198 @@
+<div class="register">
+  <div class="bg-color">
+    <div class="headings"><br>
+      <h1><strong>Welcome & Join The World</strong></h1>
+      <h1><strong>TweetApp</strong></h1>
+      <h4>Follow your interests</h4>
+      <h4>Join the New World</h4>
+      <h4>Join the conversation</h4><br />
+    </div>
+    
+    <div class="btns"> 
+      <!-- <div class="first-buuton"> -->
+        <button class="btn-login" (click)="onLoginClick()">Sign In</button> &nbsp;&nbsp;&nbsp;&nbsp;
+      <!-- </div> -->
+      <!-- <div class="second-button"> -->
+        <button class="btn-signup" (click)="onSignUpClick()">Sign Up</button>
+      <!-- </div>    -->
+    </div>
+  </div>
+</div>
+
+<div
+  class="modal"
+  tabindex="-1"
+  role="dialog"
+  [ngStyle]="{'display':displayStyle}">
+  <div class="modal-dialog modal-dialog-centered" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h4 class="modal-title">{{ loginForm ? 'Login' : 'SignUp' }}</h4>
+      </div>
+      <div class="modal-body" *ngIf="loginForm">
+        <div class="alert alert-danger" *ngIf="errorMessage">
+          {{ errorMessage }}
+        </div>
+        <form #authForm="ngForm" (ngSubmit)="onLogin(authForm)">
+          <div class="form-group">
+            <label for="email">Email address</label>
+            <input 
+            type="email" 
+            class="form-control" 
+            id="email"
+            name="email" 
+            placeholder="Enter email"
+            required
+            email
+            ngModel>
+          </div>
+          <div class="form-group">
+            <label for="password">Password</label>
+            <input 
+              type="password" 
+              class="form-control" 
+              id="password" 
+              placeholder="Password"
+              name="password"
+              ngModel
+              required
+              minlength="6">
+          </div>
+          <div class="login-button">
+            <button class="btn btn-primary" [disabled]="!authForm.valid">Login</button>
+            <a class="forgot-password" [routerLink]="['reset-password']">Forgot Password ?</a>
+          </div>
+        </form>
+  
+      </div>
+      <div class="modal-body" *ngIf="!loginForm">
+        <div class="alert alert-danger" *ngIf="errorMessage">
+          {{ errorMessage }}
+        </div>
+        <div class="alert alert-success" *ngIf="successfullMessage">
+          {{ successfullMessage }}
+        </div>
+        <form #signUpForm="ngForm" (ngSubmit)="onSignUp(signUpForm)">
+          <div class="form-group">
+            <input 
+            type="email" 
+            class="form-control" 
+            id="email"
+            name="email" 
+            placeholder="Enter email"
+            required
+            email
+            ngModel>
+          </div>
+          <div class="form-group">
+            <input 
+              type="password" 
+              class="form-control" 
+              id="password" 
+              placeholder="Password"
+              name="password"
+              ngModel
+              required
+              minlength="6">
+          </div>
+          <div class="form-group">
+            <input 
+              type="password" 
+              class="form-control" 
+              id="confirmPassword" 
+              placeholder="Confirm Password"
+              name="confirmPassword"
+              ngModel
+              required
+              minlength="6">
+          </div>
+          <div class="row">
+            <div class="col">
+              <input 
+                type="text" 
+                class="form-control" 
+                id="firstName" 
+                placeholder="First Name"
+                name="firstName"
+                ngModel
+                required
+                >
+            </div>
+            <div class="col">
+                <input 
+                  type="text" 
+                  class="form-control" 
+                  id="lastName" 
+                  placeholder="Last Name"
+                  name="lastName"
+                  ngModel
+                  >
+            </div>
+          </div>
+          <div class="form-group">
+            <label for="dateOfBirth">Date Of Birth</label>
+            <input 
+              type="date" 
+              class="form-control" 
+              required 
+              name="dateOfBirth" 
+              id="dateOfBirth"
+              ngModel>
+          </div>
+          <div class="form-group">
+            <label for="gender">Gender</label>
+            <div class="form-check">
+              <input class="form-check-input" type="radio" name="gender" value="Male" id="genderMale" ngModel>
+              <label class="form-check-label" for="gender">
+                Male
+              </label>
+            </div>
+            <div class="form-check">
+              <input class="form-check-input" type="radio" name="gender" value="Female" id="genderFemale" ngModel>
+              <label class="form-check-label" for="gender">
+                Female
+              </label>
+            </div>
+          </div>
+
+          <div class="row">
+            <div class="col">
+                <select class="form-select" 
+                        required 
+                        name="question"
+                        ngModel
+                        #question="ngModel"
+                        >
+                    <option value="" disabled> - Select Security Question - </option>
+                    <option *ngFor="let option of options" [value]="option.key">{{ option.value }}</option>
+                </select>
+            </div>
+          </div>
+          <div class="row">
+              <div class="col">
+                  <input 
+                      type="text" 
+                      class="form-control" 
+                      placeholder="Security Selected Question's Answer" 
+                      required
+                      name="answer"
+                      ngModel
+                      #answer="ngModel">
+              </div>
+           </div>
+
+          <div class="login-button">
+            <button type="submit" class="btn btn-primary">Sign Up</button>
+          </div>
+        </form>
+  
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-danger" 
+                (click)="closePopup()">
+          Close
+        </button>
+      </div>
+    </div>
+  </div>
+</div>

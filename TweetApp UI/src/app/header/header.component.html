@@ -1,0 +1,29 @@
+<!-- sidebar starts -->
+<div class="sidebar">
+  <i class="fab fa-twitter"></i>
+  <div class="sidebarOption" routerLinkActive="active" routerLink='tweets'>
+    <span class="material-icons"> home </span>
+    <h2>Home</h2>
+  </div>
+
+  <div class="sidebarOption" routerLinkActive="active" [routerLink]="['users']">
+    <span class="material-icons"> search </span>
+    <h2>Explore</h2>
+  </div>
+
+  <div class="sidebarOption" routerLinkActive="active" [routerLink]="['mytweets/user/', userId]">
+    <span class="material-icons"> list_alt </span>
+    <h2>My Tweets</h2>
+  </div>
+
+  <div class="sidebarOption" routerLinkActive="active" [routerLink]="['my-profile/', userId]">
+    <span class="material-icons"> perm_identity </span>
+    <h2>Profile</h2>
+  </div>
+
+  <div class="sidebarOption" (click)="onLogout()">
+    <span class="material-icons"> logout </span>
+    <h2>LogOut</h2>
+  </div>
+</div>
+<!-- sidebar ends -->
